@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurdwithImg", "CurdwithImg\CurdwithImg.csproj", "{56CDF636-631D-475F-AD42-2F0EBF9E0EAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56CDF636-631D-475F-AD42-2F0EBF9E0EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56CDF636-631D-475F-AD42-2F0EBF9E0EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56CDF636-631D-475F-AD42-2F0EBF9E0EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56CDF636-631D-475F-AD42-2F0EBF9E0EAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {340568F0-DC58-487C-8C3B-16FF5D9597CD}
+	EndGlobalSection
+EndGlobal
